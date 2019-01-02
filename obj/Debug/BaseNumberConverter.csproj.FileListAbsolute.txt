@@ -1,0 +1,7 @@
+C:\Users\Nevio\source\repos\BaseNumberConverter\BaseNumberConverter\obj\Debug\BaseNumberConverter.csprojAssemblyReference.cache
+C:\Users\Nevio\source\repos\BaseNumberConverter\BaseNumberConverter\obj\Debug\BaseNumberConverter.csproj.CoreCompileInputs.cache
+C:\Users\Nevio\source\repos\BaseNumberConverter\BaseNumberConverter\bin\Debug\BaseNumberConverter.exe.config
+C:\Users\Nevio\source\repos\BaseNumberConverter\BaseNumberConverter\bin\Debug\BaseNumberConverter.exe
+C:\Users\Nevio\source\repos\BaseNumberConverter\BaseNumberConverter\bin\Debug\BaseNumberConverter.pdb
+C:\Users\Nevio\source\repos\BaseNumberConverter\BaseNumberConverter\obj\Debug\BaseNumberConverter.exe
+C:\Users\Nevio\source\repos\BaseNumberConverter\BaseNumberConverter\obj\Debug\BaseNumberConverter.pdb
